@@ -1,0 +1,1 @@
+runjaraihuman.bat
